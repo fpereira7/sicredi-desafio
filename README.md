@@ -14,8 +14,8 @@ OpenCSV
 5. Pegar o arquivo sicredi.csv e copiar para pasta target.
 6. Executar o seguinte comando para processar o arquivo: 
     java -jar sicredi-desafio-0.0.1-SNAPSHOT.jar sicredi.csv
-    
-7. Será criado um log de retorno do serviço fake informando as etapas de processamento dos dados e um novo arquivo será gerado na mesma pasta onde o arquivo jar foi executado.   
+7. Será exibido no cmd um log de retorno do serviço fake informando as etapas de processamento dos dados.
+8. Na pasta onde o jar foi executado, será gerado um novo arquivo chamado sicredi_response.csv contendo a informação do resultado do serviço.
     
 
 
